@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/rlebg/source/repos/PomegranateEditor/PomegranateEditor/Content/DefaultFont.spritefont</SourceFile>
+  <SourceTime>2022-06-21T07:17:59.4038035-07:00</SourceTime>
+  <DestFile>C:/Users/rlebg/source/repos/PomegranateEditor/PomegranateEditor/Content/bin/DesktopGL/Content/DefaultFont.xnb</DestFile>
+  <DestTime>2022-06-21T07:24:07.6344453-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54-07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
